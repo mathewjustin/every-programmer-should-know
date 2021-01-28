@@ -118,6 +118,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
 - :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
 - :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
+- :movie_camera: [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 
 
 ### Practices
@@ -240,3 +241,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [CodeCombat](https://codecombat.com/)
 - :link: [InterviewCake](https://www.interviewcake.com/)
 - :link: [At Coder](https://atcoder.jp/)
+- :link: [Codility](https://www.codility.com/)
